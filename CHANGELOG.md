@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/type-cms/react-sdk/compare/v1.0.0...v1.0.1) (2024-04-17)
+
+
+### Bug Fixes
+
+* update package.json ([0c2568c](https://github.com/type-cms/react-sdk/commit/0c2568cf4e3cf298fa85b58060de5c98901dd534))
+
 # 1.0.0 (2024-04-17)
 
 

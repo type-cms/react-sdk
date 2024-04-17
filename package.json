@@ -1,6 +1,6 @@
 {
   "name": "@typecms-sdk/react-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type CMS SDK for React",
   "main": "index.js",
   "scripts": {
