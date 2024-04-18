@@ -2,7 +2,7 @@
   "name": "@typecms-sdk/react-sdk",
   "version": "1.0.6",
   "description": "Type CMS SDK for React",
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "semantic-release": "semantic-release",
