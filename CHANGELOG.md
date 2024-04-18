@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/type-cms/react-sdk/compare/v1.0.3...v1.0.4) (2024-04-18)
+
+
+### Bug Fixes
+
+* added typescript support ([b95cb5d](https://github.com/type-cms/react-sdk/commit/b95cb5d84d7c68237b40ee88e56fd9ff18a48e67))
+
 ## [1.0.3](https://github.com/type-cms/react-sdk/compare/v1.0.2...v1.0.3) (2024-04-18)
 
 
