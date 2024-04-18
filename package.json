@@ -2,7 +2,8 @@
   "name": "@typecms-sdk/react-sdk",
   "version": "1.0.5",
   "description": "Type CMS SDK for React",
-  "main": "dist/index.js",
+  "main": "build/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "semantic-release": "semantic-release",
     "watch": "tsc --watch"
@@ -11,7 +12,7 @@
   "license": "MIT",
   "homepage": "https://www.typecms.com/",
   "files": [
-    "dist/",
+    "lib/",
     "README.md",
     "CHANGELOG.md"
   ],
