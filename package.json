@@ -9,6 +9,10 @@
   "author": "Type CMS Inc.",
   "license": "MIT",
   "homepage": "https://www.typecms.com/",
+  "files": [
+    "hooks/",
+    "README.md"
+  ],
   "release": {
     "branches": [
       "main",
@@ -22,7 +26,8 @@
       "@semantic-release/changelog",
       {
         "path": "@semantic-release/npm",
-        "npmPublish": true
+        "npmPublish": true,
+        "tarballDir": "dist"
       },
       {
         "path": "@semantic-release/git",
