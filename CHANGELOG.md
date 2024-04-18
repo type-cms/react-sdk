@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/type-cms/react-sdk/compare/v1.0.5...v1.0.6) (2024-04-18)
+
+
+### Bug Fixes
+
+* added type declaration ([eec7472](https://github.com/type-cms/react-sdk/commit/eec747204fd5db52d7fe84398e19d32e06c7ed19))
+
 ## [1.0.5](https://github.com/type-cms/react-sdk/compare/v1.0.4...v1.0.5) (2024-04-18)
 
 
