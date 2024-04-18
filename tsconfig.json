@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",       // Output directory for compiled files
+      "rootDir": "./src",       // Root directory of source files
+      "module": "commonjs",
+      "target": "es6",
+      "strict": true
+    },
+    "include": [
+      "src/**/*"               // Include all files in src
+    ],
+    "exclude": ["node_modules"]
+  }

@@ -1,11 +1,16 @@
 import { useEffect, useState } from "react";
 
-const useContent = ({ baseUrl, token, projectId }) => {
+const useContent = ({ baseUrl, token, projectId }: {
+  baseUrl: string;
+  token: string;
+  projectId: string;
+
+}) => {
   const [content, setContent] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [isLoaded, setIsLoaded] = useState(false);
 
-  const getEntries = async (body) => {
+  const getEntries = async (body: any) => {
     setIsLoading(true);
     setIsLoaded(false);
 
