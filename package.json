@@ -22,8 +22,7 @@
       "@semantic-release/changelog",
       {
         "path": "@semantic-release/npm",
-        "npmPublish": true,
-        "tarballDir": "dist"
+        "npmPublish": true
       },
       {
         "path": "@semantic-release/git",
