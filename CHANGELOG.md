@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/type-cms/react-sdk/compare/v1.0.6...v1.0.7) (2024-04-18)
+
+
+### Bug Fixes
+
+* updated entry path ([d2f92d3](https://github.com/type-cms/react-sdk/commit/d2f92d3064a7f1b312cbb63c8975bef3d319e4cd))
+
 ## [1.0.6](https://github.com/type-cms/react-sdk/compare/v1.0.5...v1.0.6) (2024-04-18)
 
 
